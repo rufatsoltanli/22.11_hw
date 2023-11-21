@@ -1,0 +1,23 @@
+nav {
+    background-color: rgb(24, 30, 34);
+}
+
+.navcont {
+    display: flex;
+    width: 70%;
+    margin: 0 auto;
+    justify-content: space-between;
+    padding: 10px;
+    color: aliceblue;
+    font-size: 20px;
+
+}
+
+.navlinks ul {
+    display: flex;
+    gap: 10px;
+}
+
+.navlinks ul li a {
+    color: aliceblue;
+}
